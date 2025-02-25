@@ -4,7 +4,7 @@
  * Description: A Must-Use Plugin that disables all automatic updates for WordPress core, plugins, and themes.
  * Version: 1.0
  * Author: Saintly Solutions
- * Plugin URI: TBD
+ * Plugin URI: https://github.com/aaronstpierre/ss-disable-wp-automatic-updates.git 
  * Author URI: https://saintlysolutions.com
  * License: GPL-2.0+
  * License URI: https://www.gnu.org/licenses/gpl-2.0.txt
