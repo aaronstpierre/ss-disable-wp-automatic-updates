@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: SS WP Disable Automatic Updates
+ * Plugin Name: Saintly Solutions WP Disable Automatic Updates
  * Description: A Must-Use Plugin that disables all automatic updates for WordPress core, plugins, and themes.
  * Version: 1.0
  * Author: Saintly Solutions
